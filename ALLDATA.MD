@@ -24,6 +24,6 @@
  - [UEFI Firmware Parser](https://github.com/theopolis/uefi-firmware-parser) UEFI Firmware parser is a simple module and set of scripts for parsing, extracting, and recreating UEFI firmware volumes 
     - Last updated January 4, 2023
  -  [HackBGRT](https://github.com/Metabolix/HackBGRT)
-   -Last updated February 29, 2020
+   - Last updated February 29, 2020
  - [jethrogb/uefireverse](https://github.com/search?p=2&q=UEFI&type=Repositories)
    - last updated March 24, 2016
