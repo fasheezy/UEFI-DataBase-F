@@ -1,0 +1,7 @@
+ - [jethrogb/uefireverse](https://github.com/search?p=2&q=UEFI&type=Repositories)
+   - last updated March 24, 2016
+  - [Andreiw/UEFIToolsPKG](https://github.com/andreiw/UefiToolsPkg)
+   - last updated April 2023
+  - [Tianocore/edk2](https://github.com/tianocore/edk2) A modern, feature-rich, cross-platform firmware development environment for the UEFI and PI specifications from
+    - last updated April 29, 2023
+  -  
