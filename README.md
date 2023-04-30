@@ -13,11 +13,11 @@
 ## Others
 
 - [quarkslab](https://github.com/quarkslab/dreamboot). [Apr 10, 2013]
-- [VisualUefi](https://github.com/ionescu007/VisualUefi).[Mar 22, 2019]
+- [VisualUefi](https://github.com/ionescu007/VisualUefi). [Mar 22, 2019]
 - [UEFI Firmware Parser](https://github.com/theopolis/uefi-firmware-parser) UEFI Firmware parser is a simple module and set of scripts for parsing, extracting, and recreating UEFI firmware volumes. [Jan 4, 2023]
-- [HackBGRT](https://github.com/Metabolix/HackBGRT).[Feb 29, 2023]
-- [jethrogb/uefireverse](https://github.com/search?p=2&q=UEFI&type=Repositories).[Mar 24, 2016]
-- [Andreiw/UEFIToolsPKG](https://github.com/andreiw/UefiToolsPkg).[Apr 2023]
+- [HackBGRT](https://github.com/Metabolix/HackBGRT). [Feb 29, 2023]
+- [jethrogb/uefireverse](https://github.com/search?p=2&q=UEFI&type=Repositories). [Mar 24, 2016]
+- [Andreiw/UEFIToolsPKG](https://github.com/andreiw/UefiToolsPkg). [Apr 2023]
 - [Tianocore/edk2](https://github.com/tianocore/edk2) A modern, feature-rich, cross-platform firmware development environment for the UEFI and PI specifications. [Apr 29, 2023]
 - [pftf/RPi4](https://github.com/pftf/RPi4). [Dec 24, 2022]
 - [yeggor/uefi_retool](https://github.com/yeggor/uefi_retool). [Aug 3, 2021]
