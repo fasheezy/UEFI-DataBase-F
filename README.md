@@ -1,5 +1,7 @@
 # Open Source UEFI Libraries
-This is a database of Repositories related to UEFI. Whether they are UEFI loaders, apps, instructions, or other UEFI related repositories, the purpose of this repository is to catalog them by relevancy and function. 
+This repository is listing of projects related to the Unified Extensible Firmware Interface (UEFI).  According to [Garry Kranz](https://www.techtarget.com/whatis/definition/Unified-Extensible-Firmware-Interface-UEFI), UEFI is "a specification for a software program that connects a computer's firmware to its operating system (OS). UEFI is expected to eventually replace basic input/output system (BIOS) but is compatible with it."
+
+This repository organized by loaders, apps, instructions, or others. The purpose of this repository is to catalog them by relevancy and function.
 
 ## Loaders
 - [Super UEFIinSecureBoot Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk) Super UEFIinSecureBoot Disk is a proof-of-concept (not actively maintained or enhanced) bootable image with GRUB2 bootloader designed to be used as a base for recovery USB flash drives. [May 8, 2022]
@@ -14,6 +16,7 @@ This is a database of Repositories related to UEFI. Whether they are UEFI loader
 - [shim, a first-stage UEFI bootloader](https://github.com/rhboot/shim) Shim is a trivial EFI application that attempts to open and execute another application. [Feb 1, 2023]
 - [rEFInd-minimal](https://github.com/evanpurkhiser/rEFInd-minimal) rEFInd is an easy to use boot manager for UEFI based systems. [Apr 5, 2023]
 - [pftf/RPi4](https://github.com/pftf/RPi4) This repository contains installable builds of the official EDK2 Raspberry Pi 4 UEFI firmware. [Dec 24, 2022]
+
 ## Others
 - [VisualUefi](https://github.com/ionescu007/VisualUefi) A Solution and set of Visual Studio Project Files to allow building the official EDK-II. [Mar 22, 2019]
 - [UEFI Firmware Parser](https://github.com/theopolis/uefi-firmware-parser) UEFI Firmware parser is a simple module and set of scripts for parsing, extracting, and recreating UEFI firmware volumes. [Jan 4, 2023]
@@ -25,4 +28,6 @@ This is a database of Repositories related to UEFI. Whether they are UEFI loader
 - [luv-yocto](https://github.com/intel/luv-yocto) Linux UEFI Validation Distribution. [Feb 22, 2021]
 - [pbatard/FIDO](https://github.com/pbatard/Fido) A PowerShell script to download Windows or UEFI Shell ISOs. [Apr 15, 2023]
 - [zhenghuadai/uefi-programming](https://github.com/zhenghuadai/uefi-programming) ** NEEDS TRANSLATING **. [Apr 10, 2021]
+
+
 
