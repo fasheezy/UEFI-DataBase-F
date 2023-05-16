@@ -25,7 +25,7 @@ This repository organized by loaders, apps, instructions, or others. The purpose
 - [Tianocore/edk2](https://github.com/tianocore/edk2) A modern, feature-rich, cross-platform firmware development environment for the UEFI and PI specifications. [Apr 29, 2023]
 - [yeggor/uefi_retool](https://github.com/yeggor/uefi_retool) A tool for UEFI firmware reverse engineering. [Aug 3, 2021]
 - [pbatard/FIDO](https://github.com/pbatard/Fido) A PowerShell script to download Windows or UEFI Shell ISOs. [Apr 15, 2023]
-- [zhenghuadai/uefi-programming](https://github.com/zhenghuadai/uefi-programming) ** NEEDS TRANSLATING **. [Apr 10, 2021]
-## Others
 
+## Others
+- [zhenghuadai/uefi-programming](https://github.com/zhenghuadai/uefi-programming) ** NEEDS TRANSLATING **. [Apr 10, 2021]
 
