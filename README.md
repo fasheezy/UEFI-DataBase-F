@@ -16,8 +16,7 @@ This repository organized by loaders, apps, instructions, or others. The purpose
 - [shim, a first-stage UEFI bootloader](https://github.com/rhboot/shim) Shim is a trivial EFI application that attempts to open and execute another application. [Feb 1, 2023]
 - [rEFInd-minimal](https://github.com/evanpurkhiser/rEFInd-minimal) rEFInd is an easy to use boot manager for UEFI based systems. [Apr 5, 2023]
 - [pftf/RPi4](https://github.com/pftf/RPi4) This repository contains installable builds of the official EDK2 Raspberry Pi 4 UEFI firmware. [Dec 24, 2022]
-
-## Others
+## UEFI Proxy Tools
 - [VisualUefi](https://github.com/ionescu007/VisualUefi) A Solution and set of Visual Studio Project Files to allow building the official EDK-II. [Mar 22, 2019]
 - [UEFI Firmware Parser](https://github.com/theopolis/uefi-firmware-parser) UEFI Firmware parser is a simple module and set of scripts for parsing, extracting, and recreating UEFI firmware volumes. [Jan 4, 2023]
 - [HackBGRT](https://github.com/Metabolix/HackBGRT) HackBGRT is intended as a boot logo changer for UEFI-based Windows systems. [Feb 29, 2023]
@@ -25,9 +24,8 @@ This repository organized by loaders, apps, instructions, or others. The purpose
 - [Andreiw/UEFIToolsPKG](https://github.com/andreiw/UefiToolsPkg) Andreiw is a set of useful tools meant to allow easier access to UEFI wares. [Apr 2023]
 - [Tianocore/edk2](https://github.com/tianocore/edk2) A modern, feature-rich, cross-platform firmware development environment for the UEFI and PI specifications. [Apr 29, 2023]
 - [yeggor/uefi_retool](https://github.com/yeggor/uefi_retool) A tool for UEFI firmware reverse engineering. [Aug 3, 2021]
-
 - [pbatard/FIDO](https://github.com/pbatard/Fido) A PowerShell script to download Windows or UEFI Shell ISOs. [Apr 15, 2023]
 - [zhenghuadai/uefi-programming](https://github.com/zhenghuadai/uefi-programming) ** NEEDS TRANSLATING **. [Apr 10, 2021]
-
+## Others
 
 
